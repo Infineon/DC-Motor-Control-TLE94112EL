@@ -1,0 +1,9 @@
+<map id="tle94112.hpp" name="tle94112.hpp">
+<area shape="rect" id="node1" title="TLE94112 Core API." alt="" coords="172,5,278,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="55,162,126,189"/>
+<area shape="rect" id="node3" title=" " alt="" coords="442,80,512,107"/>
+<area shape="rect" id="node4" href="$df/d05/timer_8hpp.html" title="TLE94112 Timer Platform Abstraction Layer." alt="" coords="24,80,144,107"/>
+<area shape="rect" id="node6" href="$d1/d2c/gpio_8hpp.html" title="TLE94112 GPIO Platform Abstraction Layer." alt="" coords="168,80,282,107"/>
+<area shape="rect" id="node7" href="$d8/df0/spic_8hpp.html" title="TLE94112 SPI Platform Abstraction Layer." alt="" coords="306,80,418,107"/>
+<area shape="rect" id="node5" href="$d1/d7f/tle94112-types_8hpp.html" title="TLE94112 Types." alt="" coords="156,155,294,196"/>
+</map>

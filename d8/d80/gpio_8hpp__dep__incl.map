@@ -1,0 +1,8 @@
+<map id="gpio.hpp" name="gpio.hpp">
+<area shape="rect" id="node1" title="TLE94112 GPIO Platform Abstraction Layer." alt="" coords="175,5,253,32"/>
+<area shape="rect" id="node2" href="$d4/d9b/tle94112_8hpp.html" title="TLE94112 Core API." alt="" coords="103,80,210,107"/>
+<area shape="rect" id="node6" href="$de/d31/gpio_8cpp.html" title="TLE94112 GPIO Platform Abstraction Layer." alt="" coords="234,80,311,107"/>
+<area shape="rect" id="node3" href="$d3/dd8/tle94112-motor_8hpp.html" title="TLE94112 Motor Control API." alt="" coords="5,155,156,181"/>
+<area shape="rect" id="node5" href="$d3/d0a/tle94112_8cpp.html" title="TLE94112 Core API." alt="" coords="181,155,287,181"/>
+<area shape="rect" id="node4" href="$db/dc4/tle94112-motor_8cpp.html" title="TLE94112 Motor Control API." alt="" coords="6,229,155,256"/>
+</map>
